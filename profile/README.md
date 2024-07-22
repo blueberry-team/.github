@@ -1,12 +1,18 @@
-## Hi there 👋
+# 블루베리 템플릿
 
-<!--
+블루베리 템플릿은 쇼핑몰, 커뮤니티, 소개팅 등 자주 사용되는 서비스에 필요한 코드와 구성 요소를 포함하는 Flutter 템플릿입니다. 이 레포지토리는 다양한 프로젝트의 기초를 제공하며, 개발자와 디자이너들이 함께 협업할 수 있는 플랫폼입니다.
 
-**Here are some ideas to get you started:**
+## 📂 템플릿 개요
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+블루베리 템플릿은 다음과 같은 서비스를 지원합니다:
+- 쇼핑몰
+- 커뮤니티
+- 소개팅 등
+
+템플릿의 모든 코드는 간단한 `위젯 - 프로바이더` 구조로 구성되어 있으며, 사용자가 필요한 화면과 버튼을 찾고 해당 위젯과 연결된 프로바이더를 확인할 수 있습니다.
+
+## 🤝 기여 방법
+
+블루베리 템플릿은 오픈소스로 개발되고 있으며, 개발자와 디자이너의 기여를 기다리고 있습니다. 함께 템플릿을 개선하고 싶다면 아래 링크를 통해 참여해 주세요.
+
+- [카카오톡 링크](https://open.kakao.com/o/savka5yg) (Flutter 초심자 협업 학습을 위한 2주간의 인턴 체험도 진행 중이니 신청해 주세요!)
